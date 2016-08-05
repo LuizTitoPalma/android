@@ -43,7 +43,7 @@ var app = {
 
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
-window.open('http://www.srgallo.com.br', '_system');
+window.open('http://www.alcateiaweb.com.br', '_system');
         console.log('Received Event: ' + id);
     }
 };
